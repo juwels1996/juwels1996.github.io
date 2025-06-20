@@ -43777,7 +43777,7 @@ e.e=!0
 e.QE()
 s=e.mH()?2:3
 break
-case 2:n=A.aXf("POST",A.dn("http://192.168.68.102:8000/register_user/",0,null))
+case 2:n=A.aXf("POST",A.dn("https://backend.dplt10.org/register_user/",0,null))
 n.x.m(0,"name",o.e.a.a)
 n.x.m(0,"bkash_number",o.at.a.a)
 n.x.m(0,"bkash_transaction_id",o.ax.a.a)
@@ -43847,7 +43847,7 @@ return new A.YE(A.D(t.N,t.z),s)}}
 A.YE.prototype={
 B5(){var s=0,r=A.q(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$B5=A.m(function(a,b){if(a===1){p.push(b)
-s=q}while(true)switch(s){case 0:k=A.dn("http://192.168.68.102:8000/get_user_data/"+o.a.c+"/",0,null)
+s=q}while(true)switch(s){case 0:k=A.dn("https://backend.dplt10.org/get_user_data/"+o.a.c+"/",0,null)
 q=3
 s=6
 return A.t(A.kO(k),$async$B5)
@@ -44031,7 +44031,7 @@ A.aFx()},
 lA(){var s=0,r=A.q(t.H),q=this,p,o
 var $async$lA=A.m(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:s=2
-return A.t(A.kO(A.dn("http://192.168.68.102:8000/api/youtube_videos/",0,null)),$async$lA)
+return A.t(A.kO(A.dn("https://backend.dplt10.org/api/youtube_videos/",0,null)),$async$lA)
 case 2:o=b
 if(o.b===200){q.ab(new A.aus(q,o))
 if(J.kU(q.d)){p=J.aF(J.aF(q.d,0),"video_link")
