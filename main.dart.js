@@ -45138,7 +45138,7 @@ m=A.as(c,c,B.h,c,c,c,c,c,b,c,c,20,c,c,B.f3,c,c,!0,c,c,c,c,c,c,c,c)
 m=A.Rq(c,c,c,B.bz,c,c,!0,c,A.cB(A.b([A.cB(c,c,"Your registration is "),A.cB(c,A.as(c,c,B.Pv,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"successfully completed")],t.VO),m,c),B.aT,c,c,B.X,B.aw)
 l=A.bm(c,20,c)
 k=A.cM(15)
-j=d.d.h(0,a)!=null?"http://backend.dplt10.org"+A.h(d.d.h(0,a)):"https://via.placeholder.com/150"
+j=d.d.h(0,a)!=null?"https://backend.dplt10.org"+A.h(d.d.h(0,a)):"https://via.placeholder.com/150"
 j=A.uR(k,A.nV(j,new A.aD2(),B.cY,150,new A.aD3(),150),B.b1)
 k=A.bm(c,10,c)
 i=d.d.h(0,"name")
@@ -45161,7 +45161,7 @@ A.aD3.prototype={
 $3(a,b,c){return b},
 $S:729}
 A.aD2.prototype={
-$3(a,b,c){return A.lY("assets/sponsors/jjs.jpg",null,150,150)},
+$3(a,b,c){return A.lY("assets/sponsors/default1.png",null,150,150)},
 $S:734}
 A.aD4.prototype={
 $0(){A.cw("Button pressed!")},
