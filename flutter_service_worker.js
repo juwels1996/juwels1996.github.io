@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "2e92d85e5d90fe3fecc739fc4c7ba0da",
+const RESOURCES = {"flutter_bootstrap.js": "701619c4b6d7da6d39d4886e69c7211d",
 "version.json": "104143d64207ce8cfa9a8aef55de5085",
 "index.html": "ad3c5652250aed2ba4a98c5df22476a4",
 "/": "ad3c5652250aed2ba4a98c5df22476a4",
-"main.dart.js": "f8b2b14b8a6ead65f3ed863e8f02def6",
+"main.dart.js": "c97827ad79797c7efc26f9d8ae7214b3",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -74,7 +74,7 @@ const RESOURCES = {"flutter_bootstrap.js": "2e92d85e5d90fe3fecc739fc4c7ba0da",
 "assets/assets/fonts/Roboto-Medium.ttf": "7d752fb726f5ece291e2e522fcecf86d",
 "assets/assets/fonts/Roboto-Regular.ttf": "303c6d9e16168364d3bc5b7f766cfff4",
 "assets/assets/fonts/Roboto-BoldItalic.ttf": "e85cb1c48a3695009621fdb836eb22e9",
-"assets/assets/fonts/MaterialIcons-Regular.otf": "e6c6d914e051cf47cebe4610d62f6958",
+"assets/assets/fonts/MaterialIcons-Regular.otf": "812d604fe039ad24fd63ab9232b14bef",
 "assets/assets/fonts/Roboto-Bold.ttf": "8c9110ec6a1737b15a5611dc810b0f92",
 "canvaskit/skwasm.js": "1ef3ea3a0fec4569e5d531da25f34095",
 "canvaskit/skwasm_heavy.js": "413f5b2b2d9345f37de148e2544f584f",
